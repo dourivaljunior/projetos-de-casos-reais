@@ -1,7 +1,7 @@
 # projetos-de-casos-reais
 Neste repositório vou colocar os meus projetos de casos reais.
 Meu 1o projeto contratado será para a análise dados de uma agência de automóveis de Salvador (Ponto Veículo).
-A agência tem cerca de 20 anos atuando em Salvador e vende em média cerca de 20 veículos semi-novos por mês.
+A agência tem cerca de 20 anos atuando em Salvador e vende em média cerca de 25 veículos semi-novos por mês.
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relelvantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dasboards e apresentação de relatório final e conclusivo.
