@@ -17,3 +17,4 @@ Neste projeto eu preciso responder ao Dono da Empresa Ponto Veículos as seguint
 - que ações devem ser tomadas para se melhorar as vendas, 
 - e principalmente qual a previsão de vendas para o 2o semestre de 2022.
 Com isto o proprietário da empresa poderá tomar atitudes de negócio com mais segurança.
+Estou terminando a 1a parte da análise dos dados. Em anexo o relatório parcial e uma parte dos scripts.
