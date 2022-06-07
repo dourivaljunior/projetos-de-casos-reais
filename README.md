@@ -1,5 +1,6 @@
 # projetos-de-casos-reais
 Neste repositório vou colocar os meus projetos de casos reais.
+
 Projeto 01:
 Meu 1o projeto contratado será para a análise dados de uma agência de automóveis de Salvador (Ponto Veículo).
 A agência tem cerca de 20 anos atuando em Salvador e vende em média cerca de 25 veículos semi-novos por mês.
@@ -19,6 +20,7 @@ Neste projeto eu preciso responder ao Dono da Empresa Ponto Veículos as seguint
 - e principalmente qual a previsão de vendas para o 2o semestre de 2022.
 Com isto o proprietário da empresa poderá tomar atitudes de negócio com mais segurança.
 Estou terminando a 1a parte da análise dos dados. Em anexo o relatório parcial e uma parte dos scripts.
+
 Projeto 02:
 Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Forte Supermercados).
 A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 200mil reais por dia em cada loja.
