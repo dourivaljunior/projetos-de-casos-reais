@@ -23,7 +23,7 @@ Estou terminando a 1a parte da análise dos dados. Em anexo o relatório parcial
 
 Projeto 02:
 Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Forte Supermercados).
-A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 200mil reais por dia em cada loja.
+A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 50mil reais por dia em cada loja.
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
