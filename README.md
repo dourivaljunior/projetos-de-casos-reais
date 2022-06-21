@@ -29,3 +29,14 @@ Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
 Este projeto tem um prazo de 2 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
 mercadoorias por seção de três lojas localizaas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até julho de 2022. 
+
+Projeto 03:
+Meu 3o projeto será como voluntário no próprio condomínio onde resido. Vou entrar no SGBD da empresa e pegar todas as informações que 
+vem registradas no baçancete que é fornecido ao morador mês a mês. Assim vou fazer a análise dos dados visando responder as seguintes questões:
+- Como está a evloção temporal das despesas com pessoal, material, manutenção, etc.
+- Qual a relação receita/despesa?
+- Qual o mês que o condomínio tem mais receita e qual mês tem mais despesa?
+- Qual a taxa de inadimplência anual?
+- Quanto o condomínio fatura no aluguel dos espaços?
+- Quanto se gasta com reforma no condomínio a cada ano?
+Este projeto tem um prazo de 3 meses e comecará em julho/2022.
