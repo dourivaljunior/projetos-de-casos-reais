@@ -19,7 +19,8 @@ Neste projeto eu preciso responder ao Dono da Empresa Ponto Veículos as seguint
 - que ações devem ser tomadas para se melhorar as vendas, 
 - e principalmente qual a previsão de vendas para o 2o semestre de 2022.
 Com isto o proprietário da empresa poderá tomar atitudes de negócio com mais segurança.
-Estou terminando a 1a parte da análise dos dados. Em anexo o relatório parcial e uma parte dos scripts.
+Terminado a 1a parte da análise dos dados. Em anexo o relatório parcial e uma parte dos scripts.
+Faltando fazer o dashborad no excel ou power bi e aprsentar os resultados ao gestor.
 
 Projeto 02:
 Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Forte Supermercados).
@@ -28,7 +29,7 @@ No contrato de prestação de serviços está a descrição do que irei fazer.
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
 Este projeto tem um prazo de 2 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
-mercadoorias por seção de três lojas localizaas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até julho de 2022. 
+mercadoorias por seção de três lojas localizadas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até julho de 2022. 
 
 Projeto 03:
 Meu 3o projeto será como voluntário no próprio condomínio onde resido. Vou receber os dados do SGBD da empresa em excel, pegar todas as informações que 
