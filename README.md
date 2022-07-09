@@ -23,7 +23,7 @@ Terminado a 1a parte da análise dos dados. Em anexo o relatório parcial e uma 
 Faltando fazer o dashborad no excel ou power bi e aprsentar os resultados ao gestor.
 
 Projeto 02:
-Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Forte Supermercados).
+Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Fort Supermercados).
 A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 50mil reais por dia em cada loja.
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
@@ -41,3 +41,10 @@ vem registradas no baçancete que é fornecido ao morador mês a mês. Assim, vo
 - Quanto o condomínio fatura no aluguel dos espaços?
 - Quanto se gasta com reforma no condomínio a cada ano?
 Este projeto tem um prazo de 3 meses e comecará em julho/2022.
+
+Projeto 04:
+Neste projeto eu montei um circuito RC num protoboard conectado ao hardware arduino. Montei um script na IDE do arduino para mandar os dados coletados de tenpo e 
+tensão elétrica para a porta serial COM3. Com o python criei um script que lia os dados enviados para esssa porta, capturando-os e gerando um arquivo com
+extesão .cvs.
+Depois fui para o excel, construi gráfico,  apliquei o solver no excel para encontrar a função de ajuste a curva experimental.
+Escrevi um código em python uusando o módulo scipy para fazer o mesmo ajuste do excel. 
