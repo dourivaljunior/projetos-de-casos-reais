@@ -1,0 +1,22 @@
+import scipy
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+df=pd.read_csv('logger2.csv')
+df.head()
+x=df['tempo'].values
+y=df['tensao'].values
+def funcao(x,a,b):
+    return a*(1-np.exp(-b*x))
+popt,pocv=curve_fit(funcao,x,y)
+a,b=popt
+print('a=',a,'b=',b)
+#gráfico d acurva ajustada
+x_new_value = np.arange(min(x), max(x), 5)
+y_new_value = funcao(x_new_value, a, b)
+plt.scatter(x,y,color="green")
+plt.plot(x_new_value,y_new_value,color="red")
+plt.xlabel('tempo')
+plt.ylabel('tensão')
+plt.show()
