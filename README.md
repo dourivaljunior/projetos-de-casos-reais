@@ -48,3 +48,7 @@ tensão elétrica para a porta serial COM3. Com o python criei um script que lia
 extesão .cvs.
 Depois fui para o excel, construi gráfico,  apliquei o solver no excel para encontrar a função de ajuste a curva experimental.
 Escrevi um código em python uusando o módulo scipy para fazer o mesmo ajuste do excel. 
+
+Projeto 05: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops. Neste projeto irei construir um software usado linguagem de programação python  e para a homepage o framework flask 
+Construirei uma HP com os relatórios, gráficos e tabelas refentes ao negócio do pet shop. 
+Dados com faturamento semanal, mensal e anual, controle de estoque , análise de FIFO, tipo de pagamento serão feitas.
