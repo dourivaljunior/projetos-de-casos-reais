@@ -28,12 +28,12 @@ A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 5
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
-Este projeto tem um prazo de 2 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
-mercadoorias por seção de três lojas localizadas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até julho de 2022. 
+Este projeto terá um prazo de 4 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
+mercadoorias por seção de três lojas localizadas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até dez/2022. Estou no aguardo do gestor me fornecer os dados.
 
 Projeto 03:
 Meu 3o projeto será como voluntário no próprio condomínio onde resido. Vou receber os dados do SGBD da empresa em excel, pegar todas as informações que 
-vem registradas no baçancete que é fornecido ao morador mês a mês. Assim, vou fazer a análise dos dados visando responder as seguintes questões:
+vem registradas no balancete que é fornecido ao morador mês a mês. Estou no aguardo do gestor me fornecer os dados. Assim, vou fazer a análise dos dados visando responder as seguintes questões:
 - Como está a evloção temporal das despesas com pessoal, material, manutenção, etc.
 - Qual a relação receita/despesa?
 - Qual o mês que o condomínio tem mais receita e qual mês tem mais despesa?
@@ -49,6 +49,7 @@ extesão .cvs.
 Depois fui para o excel, construi gráfico,  apliquei o solver no excel para encontrar a função de ajuste a curva experimental.
 Escrevi um código em python uusando o módulo scipy para fazer o mesmo ajuste do excel. 
 
-Projeto 05: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops. Neste projeto irei construir um software usado linguagem de programação python  e para a homepage o framework flask 
-Construirei uma HP com os relatórios, gráficos e tabelas refentes ao negócio do pet shop. 
+Projeto 05: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops. Neste projeto irei construir um software usado linguagem de programação python  e para a homepage o framework flask. 
+Construirei uma HP com os relatórios, gráficos e tabelas referentes ao negócio do pet shop. 
 Dados com faturamento semanal, mensal e anual, controle de estoque , análise de FIFO, tipo de pagamento serão feitas.
+Estou no aguardo do gestor para me fornecer os dados.
