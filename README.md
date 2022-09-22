@@ -34,7 +34,8 @@ mercadoorias por seção de três lojas localizadas no bairro de Itapuã, Salvad
 
 Projeto 03: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops e para uma rede de 3 restaurantes. Neste projeto irei construir um software usado linguagem de programação python para back-end e para a homepage html e css e usei o framework flask. 
 Construirei uma Home Page com os relatórios, gráficos e tabelas referentes ao negócio das empresas. 
-Dados com faturamento semanal, mensal e anual, controle de estoque , análise de FIFO, tipo de pagamento, impacto co clima/tempo no negócio serão feitas.
+Dados e análises como:
+- faturamento semanal, mensal e anual, controle de estoque, análise de FIFO, tipo de pagamento, controle de estoque impacto do clima/tempo no negócio serão feitas.
 O software piloto pode ser visto em: https://directrestobar.herokuapp.com/ e https://dourivaljuniorpetshopapp.herokuapp.com/ (login admin e senha 123)
 
 Projeto 04:
