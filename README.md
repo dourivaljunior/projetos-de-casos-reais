@@ -24,13 +24,13 @@ Feito odashboard no excel apresentado o relatório geral e os resultados ao gest
 Acima uma aprte do relatório. O script está acima. 
 
 Projeto 02:
-Meu 2o projeto contratado será para a análise dados de uma rede com três mercados de Salvador (Fort Supermercados).
-A rede tem cerca de 10 anos atuando em Salvador e tem um faturamento médio de 50mil reais por dia em cada loja.
-No contrato de prestação de serviços está a descrição do que irei fazer. 
+Meu 2o projeto contratado será para a análise dados de um mercadinho de Salvador localizado no bairro de Pituaçu.
+O mercadinho tem faturamento médio de 50mil reais por mês.
+O contrato será intermediado por Darlei qyue conhece o dono do mercadinho.
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
 Este projeto terá um prazo de 4 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
-mercadoorias por seção de três lojas localizadas no bairro de Itapuã, Salvador-BA. Estes dados serão de jan/2022 até dez/2022. Estou no aguardo do gestor me fornecer os dados e fecharmos o valor da análise a depender do volume de dados. Parte do script já foi elaborado e com base neste um relatório foi feito mostrando as possibilidades de análise.
+mercadoorias por seção da loja localizada no bairro de Pituaçu, Salvador-BA. Estes dados serão de jan/2022 até dez/2022. Estou no aguardo do gestor me fornecer os dados e fecharmos o valor da análise a depender do volume de dados. Parte do script já foi elaborado e com base neste um relatório foi feito mostrando as possibilidades de análise.
 
 Projeto 03: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops e para uma rede de 3 restaurantes. Neste projeto irei construir um software usado linguagem de programação python para back-end e para a homepage html e css e usei o framework flask. 
 Construirei uma Home Page com os relatórios, gráficos e tabelas referentes ao negócio das empresas. 
@@ -47,12 +47,12 @@ vem registradas no balancete que é fornecido ao morador mês a mês. Estou no a
 - Qual a taxa de inadimplência anual?
 - Quanto o condomínio fatura no aluguel dos espaços?
 - Quanto se gasta com reforma no condomínio a cada ano?
-Este projeto tem um prazo de 3 meses e comecará assim que o condomínio conseguir compilar os dados.
+Este projeto tem um prazo de 3 meses e comecará assim que o condomínio conseguir compilar os dados. Estes dados estão sendo compilados pelo condômino Samuel.
 
 Projeto 05:
 Neste projeto é um projeto de alto nível onde uso hardware+software. Este projeto não tem nada a ver bom BI, empresa ele é simplesmente para mostar que domino as técnicas de concatenar hardware+software. Eu montei um circuito RC (resistor+Capacitor+Fonte de tensão cc) num protoboard conectando este ao hardware arduino. Montei um script na IDE do arduino em c/c++ para mandar os dados coletados, de tempo real, de tensão elétrica para a porta serial COM3. Com o python criei um script que lia os dados enviados para esssa porta, capturando-os e gerando um arquivo com extensão .cvs
 Depois fui para o excel, construi gráfico, apliquei o solver no excel para encontrar a função de ajuste aos dados coletados e a curva experimental.
 Escrevi um código em python uusando o módulo scipy para fazer o mesmo ajuste feito no excel e comparar os resultados.
-Esse projeto é pessoal, pessoal.
+Esse projeto é pessoal e será compartilhado com o prof. Vinícius da Infinity School.
 
 
