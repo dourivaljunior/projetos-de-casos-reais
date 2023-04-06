@@ -7,7 +7,7 @@ A agência tem cerca de 20 anos atuando em Salvador e vende em média cerca de 2
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
 estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
-Este projeto tem um prazo de 4 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
+Este projeto tem um prazo de 6 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
 veículos da emmpresa do ano de 2018 até maio/junho de 2022. 
 Neste projeto eu preciso responder ao Dono da Empresa Ponto Veículos as seguintes questões: 
 - como foi o impacto da pandemia no negócio da empresa (2019 e 2020), 
