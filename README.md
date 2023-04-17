@@ -2,7 +2,7 @@
 Neste repositório vou colocar os meus projetos de casos reais.
 
 Projeto 01:
-Meu 1o projeto contratado será para a análise dados de uma agência de automóveis de Salvador (Ponto Veículo).
+Meu 1o projeto contratado será para a análise dados de uma agência de automóveis de Salvador (Ponto Veículos).
 A agência tem cerca de 20 anos atuando em Salvador e vende em média cerca de 25 veículos semi-novos por mês.
 No contrato de prestação de serviços está a descrição do que irei fazer. 
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
@@ -24,7 +24,16 @@ Feito odashboard no excel apresentado o relatório geral e os resultados ao gest
 Acima uma aprte do relatório. O script está acima. 
 
 Projeto 02:
-Meu 2o projeto contratado será para a análise dados de um mercadinho de Salvador localizado no bairro de Pituaçu.
+Meu 2o projeto contratado será para a análise dados de uma agência de automóveis de Salvador (Dom Veículos).
+A agência tem cerca de 15 anos atuando em Salvador e vende em média cerca de 25-30 veículos semi-novos por mês.
+No contrato de prestação de serviços está a descrição do que irei fazer. 
+Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
+estudo de time series forecasting, construção de gráficos, dashboards e apresentação de relatório final e conclusivo.
+Este projeto tem um prazo de 6 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
+veículos da emmpresa do ano de 2018 até março de 2023. 
+
+Projeto 03:
+Meu 3o projeto contratado será para a análise dados de um mercadinho de Salvador localizado no bairro de Pituaçu.
 O mercadinho tem faturamento médio de 50mil reais por mês.
 O contrato será intermediado por Darlei qyue conhece o dono do mercadinho.
 Basicamente, será a extração dos dados relevantes em sql do sgbd da empresa, análise destes dados via aplicação de técnicas de ETL e EDA, 
@@ -32,14 +41,15 @@ estudo de time series forecasting, construção de gráficos, dashboards e apres
 Este projeto terá um prazo de 4 meses para ser realizado e serão fornecidos a mim diversos dados referentes a compra e venda de 
 mercadoorias por seção da loja localizada no bairro de Pituaçu, Salvador-BA. Estes dados serão de jan/2022 até dez/2022. Estou no aguardo do gestor me fornecer os dados e fecharmos o valor da análise a depender do volume de dados. Parte do script já foi elaborado e com base neste um relatório foi feito mostrando as possibilidades de análise.
 
-Projeto 03: Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops e para uma rede de 3 restaurantes. Neste projeto irei construir um software usado linguagem de programação python para back-end e para a homepage html e css e usei o framework flask. 
+Projeto 04: 
+Construção de um software para gerenciamento de negócios de uma rede de 3 pet shops e para uma rede de 3 restaurantes. Neste projeto irei construir um software usado linguagem de programação python para back-end e para a homepage html e css e usei o framework flask. 
 Construirei uma Home Page com os relatórios, gráficos e tabelas referentes ao negócio das empresas. 
 Dados e análises como:
 - faturamento semanal, mensal e anual, controle de estoque, análise de FIFO, tipo de pagamento, controle de estoque impacto do clima/tempo no negócio serão feitas.
 O software piloto pode ser visto em: https://directrestobar.herokuapp.com/ e https://dourivaljuniorpetshopapp.herokuapp.com/ (login admin e senha 123)
 
-Projeto 04:
-Meu 3o projeto será como voluntário no próprio condomínio onde resido. Vou receber os dados do SGBD da empresa em excel, pegar todas as informações que 
+Projeto 05:
+Meu 5o projeto será como voluntário no próprio condomínio onde resido. Vou receber os dados do SGBD da empresa em excel, pegar todas as informações que 
 vem registradas no balancete que é fornecido ao morador mês a mês. Estou no aguardo do gestor me fornecer os dados. Assim, vou fazer a análise dos dados visando responder as seguintes questões:
 - Como está a evloção temporal das despesas com pessoal, material, manutenção, etc.
 - Qual a relação receita/despesa?
@@ -49,7 +59,7 @@ vem registradas no balancete que é fornecido ao morador mês a mês. Estou no a
 - Quanto se gasta com reforma no condomínio a cada ano?
 Este projeto tem um prazo de 3 meses e comecará assim que o condomínio conseguir compilar os dados. Estes dados estão sendo compilados pelo condômino Samuel.
 
-Projeto 05:
+Projeto 06:
 Neste projeto é um projeto de alto nível onde uso hardware+software. Este projeto não tem nada a ver bom BI, empresa ele é simplesmente para mostar que domino as técnicas de concatenar hardware+software. Eu montei um circuito RC (resistor+Capacitor+Fonte de tensão cc) num protoboard conectando este ao hardware arduino. Montei um script na IDE do arduino em c/c++ para mandar os dados coletados, de tempo real, de tensão elétrica para a porta serial COM3. Com o python criei um script que lia os dados enviados para esssa porta, capturando-os e gerando um arquivo com extensão .cvs
 Depois fui para o excel, construi gráfico, apliquei o solver no excel para encontrar a função de ajuste aos dados coletados e a curva experimental.
 Escrevi um código em python uusando o módulo scipy para fazer o mesmo ajuste feito no excel e comparar os resultados.
